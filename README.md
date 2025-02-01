@@ -60,5 +60,5 @@ mvn spring-boot:run
 ## 🤝 Contributing
 Feel free to submit **pull requests** and open **issues** to improve the project!
 
-🔗 **GitHub Repo:** [your-repo-link]
+🔗 **GitHub Repo:** [(https://github.com/chiraglokhande/Online-Job-Portal)]
 
